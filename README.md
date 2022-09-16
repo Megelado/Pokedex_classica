@@ -4,7 +4,7 @@ Projeto feito com o manual do dev.
 
 ![preview](./github/preview_poke.png)
 
-[clique aqui para ver](https://https://megelado.github.io/pokedex_classica/)
+[clique aqui para ver](https://megelado.github.io/pokedex_classica/)
 
 ## Tecnologias
 
